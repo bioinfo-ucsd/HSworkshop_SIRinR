@@ -7,3 +7,4 @@ SARS-2 or COVID-19, has spread all around the world and the cases have accumulat
 ##### **Lesson plan:** [LessonPlan_virusCoding](https://github.com/jennifer-bio/SIR_workshop/blob/master/LessonPlan_virusCoding.docx)  
 ##### **Souce code:** [SIR_model_R](https://github.com/jennifer-bio/SIR_workshop/blob/master/SIR_model_R.ipynb)  
 ##### **Run at:** [https://mybinder.org/v2/gh/jennifer-bio/SIR_workshop/HEAD](https://mybinder.org/v2/gh/jennifer-bio/SIR_workshop/HEAD) and then click on SIR_model_R.ipynb file
+ 
